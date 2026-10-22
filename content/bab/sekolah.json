@@ -1,0 +1,82 @@
+{
+  "slug": "sekolah",
+  "judul": "مَدْرَسَتِي",
+  "judul_id": "Sekolahku",
+  "jenjang": [
+    "MI",
+    "MTs"
+  ],
+  "deskripsi": "Mengenal benda dan orang yang ada di sekolah.",
+  "status_verifikasi": "perlu diverifikasi penutur/dosen",
+  "tujuan": [
+    "Mengenali kosakata benda dan orang di sekolah.",
+    "Membaca kosakata Arab berharakat.",
+    "Menghubungkan kata dengan benda yang dikenal."
+  ],
+  "mufradat": [
+    {
+      "id": "buku",
+      "arab": "كِتَابٌ",
+      "tanpa_harakat": "كتاب",
+      "arti": "Buku",
+      "emoji": "📘",
+      "audio": null
+    },
+    {
+      "id": "pena",
+      "arab": "قَلَمٌ",
+      "tanpa_harakat": "قلم",
+      "arti": "Pena",
+      "emoji": "🖊️",
+      "audio": null
+    },
+    {
+      "id": "sekolah",
+      "arab": "مَدْرَسَةٌ",
+      "tanpa_harakat": "مدرسة",
+      "arti": "Sekolah",
+      "emoji": "🏫",
+      "audio": null
+    },
+    {
+      "id": "guru",
+      "arab": "مُعَلِّمٌ",
+      "tanpa_harakat": "معلم",
+      "arti": "Guru",
+      "emoji": "👩‍🏫",
+      "audio": null
+    },
+    {
+      "id": "murid",
+      "arab": "طَالِبٌ",
+      "tanpa_harakat": "طالب",
+      "arti": "Murid",
+      "emoji": "🧑‍🎓",
+      "audio": null
+    },
+    {
+      "id": "papan-tulis",
+      "arab": "سَبُّورَةٌ",
+      "tanpa_harakat": "سبورة",
+      "arti": "Papan tulis",
+      "emoji": "🧑‍🏫",
+      "audio": null
+    },
+    {
+      "id": "tas",
+      "arab": "حَقِيبَةٌ",
+      "tanpa_harakat": "حقيبة",
+      "arti": "Tas",
+      "emoji": "🎒",
+      "audio": null
+    },
+    {
+      "id": "pintu",
+      "arab": "بَابٌ",
+      "tanpa_harakat": "باب",
+      "arti": "Pintu",
+      "emoji": "🚪",
+      "audio": null
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+[
+  {
+    "slug": "keluarga",
+    "judul": "أُسْرَتِي",
+    "judul_id": "Keluargaku",
+    "jenjang": [
+      "MI"
+    ],
+    "deskripsi": "Mengenal anggota keluarga melalui mufradat dasar."
+  },
+  {
+    "slug": "sekolah",
+    "judul": "مَدْرَسَتِي",
+    "judul_id": "Sekolahku",
+    "jenjang": [
+      "MI",
+      "MTs"
+    ],
+    "deskripsi": "Mengenal benda dan orang yang ada di sekolah."
+  }
+]

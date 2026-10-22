@@ -1,0 +1,97 @@
+{
+  "slug": "keluarga",
+  "judul": "أُسْرَتِي",
+  "judul_id": "Keluargaku",
+  "jenjang": [
+    "MI"
+  ],
+  "deskripsi": "Belajar menyebut anggota keluarga dalam Bahasa Arab.",
+  "status_verifikasi": "perlu diverifikasi penutur/dosen",
+  "tujuan": [
+    "Mengenali kosakata anggota keluarga.",
+    "Mencocokkan kata Arab dengan petunjuk visual.",
+    "Membaca kata Arab berharakat dengan bimbingan."
+  ],
+  "mufradat": [
+    {
+      "id": "ayah",
+      "arab": "أَبٌ",
+      "tanpa_harakat": "اب",
+      "arti": "Ayah",
+      "emoji": "👨",
+      "audio": null
+    },
+    {
+      "id": "ibu",
+      "arab": "أُمٌّ",
+      "tanpa_harakat": "ام",
+      "arti": "Ibu",
+      "emoji": "👩",
+      "audio": null
+    },
+    {
+      "id": "saudara-laki",
+      "arab": "أَخٌ",
+      "tanpa_harakat": "اخ",
+      "arti": "Saudara laki-laki",
+      "emoji": "👦",
+      "audio": null
+    },
+    {
+      "id": "saudara-perempuan",
+      "arab": "أُخْتٌ",
+      "tanpa_harakat": "اخت",
+      "arti": "Saudara perempuan",
+      "emoji": "👧",
+      "audio": null
+    },
+    {
+      "id": "kakek",
+      "arab": "جَدٌّ",
+      "tanpa_harakat": "جد",
+      "arti": "Kakek",
+      "emoji": "👴",
+      "audio": null
+    },
+    {
+      "id": "nenek",
+      "arab": "جَدَّةٌ",
+      "tanpa_harakat": "جدة",
+      "arti": "Nenek",
+      "emoji": "👵",
+      "audio": null
+    },
+    {
+      "id": "keluarga",
+      "arab": "أُسْرَةٌ",
+      "tanpa_harakat": "اسرة",
+      "arti": "Keluarga",
+      "emoji": "👨‍👩‍👧‍👦",
+      "audio": null
+    },
+    {
+      "id": "anak-laki",
+      "arab": "اِبْنٌ",
+      "tanpa_harakat": "ابن",
+      "arti": "Anak laki-laki",
+      "emoji": "🧒",
+      "audio": null
+    },
+    {
+      "id": "anak-perempuan",
+      "arab": "بِنْتٌ",
+      "tanpa_harakat": "بنت",
+      "arti": "Anak perempuan",
+      "emoji": "👧",
+      "audio": null
+    },
+    {
+      "id": "rumah",
+      "arab": "بَيْتٌ",
+      "tanpa_harakat": "بيت",
+      "arti": "Rumah",
+      "emoji": "🏠",
+      "audio": null
+    }
+  ]
+}
